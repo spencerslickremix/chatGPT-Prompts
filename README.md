@@ -1,2 +1,2 @@
-# chatGPT Prompts
- A list of prompts to pull into a chatBot
+Prompt1: Value of the first prompt
+Prompt2: Value of the second prompt
