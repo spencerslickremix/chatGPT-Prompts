@@ -1,5 +1,2 @@
-Prompt1: Value of the first prompt
-
-Prompt2: Value of the second prompt
-
-Prompt3: Value of the second prompt
+- Description of the first prompt: Value of the first prompt
+- Description of the second prompt: Value of the second prompt
