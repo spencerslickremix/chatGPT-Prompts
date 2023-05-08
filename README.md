@@ -1,6 +1,6 @@
 - 1: Is ChatGPT working?: Is this working tell me in one word?
 
-- 2: 10 word Summary: Summarize this content in one sentence, no more than 10 words.
+- 2: Summarize in 10 words: Summarize this content in one sentence, no more than 10 words.
 
 - 3: Why should I use SlickRemix: Tell users why they should use our Chrome extension that is Powered by ChatGPT.
 
@@ -12,7 +12,7 @@
 
 - 7: Is ChatGPT working?: Is this working tell me in one word?
 
-- 8: 10 word Summary: Summarize this content in one sentence, no more than 10 words.
+- 8: Summarize in 10 words: Summarize this content in one sentence, no more than 10 words.
 
 - 10: Why should I use SlickRemix: Tell users why they should use our Chrome extension that is Powered by ChatGPT.
 
