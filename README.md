@@ -1,6 +1,6 @@
-- Is ChatGPT working?: Is this working tell me in one word?
+- 1. Is ChatGPT working?: Is this working tell me in one word?
 
-- 10 word Summary: Summarize this content in one sentence, no more than 10 words.
+- 2. 10 word Summary: Summarize this content in one sentence, no more than 10 words.
 
 - Why should I use SlickRemix: Tell users why they should use our Chrome extension that is Powered by ChatGPT.
 
