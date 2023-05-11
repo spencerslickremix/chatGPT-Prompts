@@ -21,8 +21,11 @@ This guide has been put together to help users of the SlickRemix: Personal Assis
 Feel free to add or remove numbers to your prompts as per your preference. However, it is important to adhere to the formatting as shown below:
 
  **Description: Value**
+
  **1) Description: Value**
+
  **1- Description: Value**
+
  **1: Description: Value**
 
 To help you quickly reference your prompts and better organize them, I've added a number next to each prompt below. Feel free to use my file as a template by clicking on the RAW button. You only need to copy the content below in the file. [Copy my readme.md file](https://raw.githubusercontent.com/spencerslickremix/chatGPT-Prompts/main/README.md)
