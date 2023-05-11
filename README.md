@@ -1,6 +1,6 @@
 ## ChatGPT Prompts Instructions and Setup.
 ### Setup  your Free Account now.
-To get started please [click here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) to setup your free account. If you already have an account please proceed with the instructions below.
+To get started please [click here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) to setup your free account, when you are finished revisit this page. If you already have an account please proceed below.
 
 ### These instructions are to help users of the SlickRemix: Personal Assistant Chrome Extension. 
 Following these instructions will allow the prompts you add to your readme.md file to appear in our Chrome Extension. 
