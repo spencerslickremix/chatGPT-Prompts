@@ -42,7 +42,7 @@ To help you quickly reference your prompts and better organize them, I've added 
 
 - 5- Help me Understand: Please break this content down in a way that is easy for me to understand.
 
-- 6- Email Response: I've received this email (insert email content). Can you help me draft a professional response?
+- 6- Email Response: I've received this email. Can you help me draft a professional response?
 
 - 7- Sassy Tweet of the Day: Write a sassy tweet about how I feel terrible today and don't feel like typing anything so I had ChatGPT write this for me.
 
