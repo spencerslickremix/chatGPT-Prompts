@@ -46,6 +46,8 @@ To help you quickly reference your prompts and better organize them, I've added 
 
 ---
 
+Finally, make sure and copy your Github url and paste it in the Chrome Extension for your prompts to appear.
+
 Happy prompting! 🥳
 
 
