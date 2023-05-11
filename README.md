@@ -1,30 +1,41 @@
-## ChatGPT Prompts Instructions and Setup.
-### Setup  your Free Account now.
-To get started please [click here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) to setup your free account, when you are finished revisit this page. If you already have an account please proceed below.
+# 🎯 ChatGPT Prompts Instructions and Setup
 
-### These instructions are to help users of the SlickRemix: Personal Assistant Chrome Extension. 
-Following these instructions will allow the prompts you add to your readme.md file to appear in our Chrome Extension. 
+---
 
-### Formatting Instructions
-You can add the numbers or remove them however, you must follow the formatting as depicted below.
+## 🚀 Getting Started: Setup Your Free Account
 
-#### - Description: Value
-#### - 1) Description: Value
-#### - 1- Description: Value
-#### - 1: Description: Value
+To start off, kindly [sign up for a free account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). Once you've done that, please revisit this page. If you're already an account holder, feel free to proceed to the instructions below.
 
-As you can see below I added a number next to each prompt. This will help you quickly reference your prompts in the list and helps better organize your prompts. Feel free to copy my file by clicking the RAW button. You only need to copy the contents below.
+---
 
-### My ChatGPT Prompts
+## 🛠️ Guide for SlickRemix: Personal Assistant Chrome Extension Users
 
-- 1: Is ChatGPT working?: Is this working tell me in one word?
+This guide has been put together to help users of the SlickRemix: Personal Assistant Chrome Extension. By following these instructions, you'll be able to add prompts to your readme.md file that will appear in our Chrome Extension.
 
-- 2: Summarize in 10 words: Summarize this content in one sentence, no more than 10 words.
+---
 
-- 3: Why should I use SlickRemix: Tell users why they should use our Chrome extension that is Powered by ChatGPT.
+## 📝 Formatting Instructions
 
-- 4: Sassy Tweet of the Day: Write a sassy tweet about how I feel terrible today and don't feel like typing anything so I had ChatGPT write this for me.
+Feel free to add or remove numbers to your prompts as per your preference. However, it is important to adhere to the formatting as shown below:
 
-- 5: Help me Understand: Please break this content down in a way that is easy for me to understand.
+- **Description: Value**
+- **1) Description: Value**
+- **1- Description: Value**
+- **1: Description: Value**
 
-- 6: Rewrite Content: Rewrite this content in a way that sounds happy and joyful and will make readers want to hear more, but they will have to wait until tomorrow for the rest of the story.
+To help you quickly reference your prompts and better organize them, I've added a number next to each prompt below. Feel free to use my file as a template by clicking on the RAW button. You only need to copy the content below in the file. [Copy my readme.md file](https://raw.githubusercontent.com/spencerslickremix/chatGPT-Prompts/main/README.md)
+
+---
+
+## 🤖 My ChatGPT Prompts
+
+- 1- **Is ChatGPT working?**: Is this working? Tell me in one word.
+- 2- **Summarize in 10 words**: Summarize this content in one sentence, no more than 10 words.
+- 3- **Why should I use SlickRemix?**: Tell users why they should use our Chrome extension that is Powered by ChatGPT.
+- 4- **Sassy Tweet of the Day**: Write a sassy tweet about how I feel terrible today and don't feel like typing anything so I had ChatGPT write this for me.
+- 5- **Help me Understand**: Please break this content down in a way that is easy for me to understand.
+- 6- **Rewrite Content**: Rewrite this content in a way that sounds happy and joyful and will make readers want to hear more, but they will have to wait until tomorrow for the rest of the story.
+
+---
+
+Happy prompting! 🥳
