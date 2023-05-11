@@ -10,7 +10,7 @@ This guide has been put together to help users of the SlickRemix: Personal Assis
 
 ## 🚀 Getting Started: Setup Your Free Account
 
-After testing, kindly [sign up for a free account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). Once you've done that, please revisit this page. If you're already an account holder, feel free to proceed to the instructions below.
+After testing, kindly [sign up for a free account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). Once you've done that, please revisit this page. If you're already an account holder you can proceed to the instructions below.
 
 ---
 
