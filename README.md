@@ -46,7 +46,7 @@ To help you quickly reference your prompts and better organize them, I've added 
 
 - 7- Sassy Tweet of the Day: Write a sassy tweet about how I feel terrible today and don't feel like typing anything so I had ChatGPT write this for me.
 
-- 8- Blog Post Introduction: Write an engaging introduction for a blog post about the latest advancements in artificial intelligence.
+- 8- Blog Post Introduction: Write an engaging introduction for a blog post about the latest advancements in artificial intelligence. No more than 200 words.
 
 - 9- Rewrite Content: Rewrite this content in a way that sounds happy and joyful and will make readers want to hear more, but they will have to wait until tomorrow for the rest of the story.
 
