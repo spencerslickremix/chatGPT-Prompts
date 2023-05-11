@@ -9,9 +9,9 @@ Following these instructions will allow the prompts you add to your readme.md fi
 You can add the numbers or remove them however, you must follow the formatting as depicted below.
 
 #### Description: Value
-#### 1) Description: Value
-#### 1- Description: Value
-#### 1: Description: Value
+#### - 1) Description: Value
+#### - 1- Description: Value
+#### - 1: Description: Value
 
 As you can see below I added a number next to each prompt. This will help you quickly reference your prompts in the list and helps better organize your prompts. Feel free to copy my file by clicking the RAW button. You only need to copy the contents below.
 
