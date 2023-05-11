@@ -1,4 +1,10 @@
-# 🎯 ChatGPT Prompts Instructions and Setup
+# 🎯 ChatGPT Prompts
+
+---
+
+## 🛠️ Guide for SlickRemix: Personal Assistant Chrome Extension Users
+
+This guide has been put together to help users of the SlickRemix: Personal Assistant Chrome Extension. By following these instructions, you'll be able to add prompts to your readme.md file that will appear in our Chrome Extension.
 
 Before you start, you can test with my URL. Copy the link below and paste it in the GitHub box in the Chrome Extension. Here's the link: https://github.com/spencerslickremix/chatGPT-Prompts
 
@@ -7,12 +13,6 @@ Before you start, you can test with my URL. Copy the link below and paste it in 
 ## 🚀 Getting Started: Setup Your Free Account
 
 After testing, kindly [sign up for a free account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). Once you've done that, please revisit this page. If you're already an account holder, feel free to proceed to the instructions below.
-
----
-
-## 🛠️ Guide for SlickRemix: Personal Assistant Chrome Extension Users
-
-This guide has been put together to help users of the SlickRemix: Personal Assistant Chrome Extension. By following these instructions, you'll be able to add prompts to your readme.md file that will appear in our Chrome Extension.
 
 ---
 
