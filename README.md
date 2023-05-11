@@ -1,10 +1,12 @@
 # 🎯 ChatGPT Prompts Instructions and Setup
 
+Before you start, you can test with my URL. Copy the link below and paste it in the GitHub box in the Chrome Extension. Here's the link: https://github.com/spencerslickremix/chatGPT-Prompts
+
 ---
 
 ## 🚀 Getting Started: Setup Your Free Account
 
-To start off, kindly [sign up for a free account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). Once you've done that, please revisit this page. If you're already an account holder, feel free to proceed to the instructions below.
+After testing, kindly [sign up for a free account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). Once you've done that, please revisit this page. If you're already an account holder, feel free to proceed to the instructions below.
 
 ---
 
@@ -44,3 +46,5 @@ To help you quickly reference your prompts and better organize them, I've added 
 ---
 
 Happy prompting! 🥳
+
+
