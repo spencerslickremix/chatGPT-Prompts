@@ -38,11 +38,23 @@ To help you quickly reference your prompts and better organize them, I've added 
 
 - 3- Why should I use SlickRemix?: Tell users why they should use our Chrome extension that is Powered by ChatGPT.
 
-- 4- Sassy Tweet of the Day: Write a sassy tweet about how I feel terrible today and don't feel like typing anything so I had ChatGPT write this for me.
+- 4- Blog Post Idea: Can you suggest an engaging idea for my next tech blog post?
 
 - 5- Help me Understand: Please break this content down in a way that is easy for me to understand.
 
-- 6- Rewrite Content: Rewrite this content in a way that sounds happy and joyful and will make readers want to hear more, but they will have to wait until tomorrow for the rest of the story.
+- 6- Email Response: I've received this email (insert email content). Can you help me draft a professional response?
+
+- 7- Sassy Tweet of the Day: Write a sassy tweet about how I feel terrible today and don't feel like typing anything so I had ChatGPT write this for me.
+
+- 8- Blog Post Introduction: Write an engaging introduction for a blog post about the latest advancements in artificial intelligence.
+
+- 9- Rewrite Content: Rewrite this content in a way that sounds happy and joyful and will make readers want to hear more, but they will have to wait until tomorrow for the rest of the story.
+
+- 10- Email Summary: Summarize the key points from this long email in just a few sentences.
+
+- 11- Promote Blog on Social Media: Draft a compelling social media post to promote my latest blog entry.
+
+- 12- Email to a Client: Help me draft an email to a client, updating them about the progress of their project.
 
 ---
 
