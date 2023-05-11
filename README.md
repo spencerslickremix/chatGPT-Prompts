@@ -8,7 +8,7 @@ Following these instructions will allow the prompts you add to your readme.md fi
 ### Formatting Instructions
 You can add the numbers or remove them however, you must follow the formatting as depicted below.
 
-#### Description: Value
+#### - Description: Value
 #### - 1) Description: Value
 #### - 1- Description: Value
 #### - 1: Description: Value
