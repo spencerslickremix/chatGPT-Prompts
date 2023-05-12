@@ -10,7 +10,7 @@ This guide has been put together to help users of the SlickRemix: Personal Assis
 
 ## 🚀 Getting Started: Setup Your Free Account
 
-After testing, [sign up for a free account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) to add and save your own prompts.It's not required to pay for a GitHub account for this to work. Once you've done that, please revisit this page.
+After testing, [sign up for a free account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) to add and save your own prompts. It's not required to pay for a GitHub account for this to work and you can add as many prompts as you like. Once you've done that, please revisit this page.
 
 If you're already an account holder you can proceed to the instructions below.
 
