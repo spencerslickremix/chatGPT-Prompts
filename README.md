@@ -38,7 +38,7 @@ To help you quickly reference your prompts and better organize them, I've added 
 
 - 2- Summarize in 10 words: Summarize this content in one sentence, no more than 10 words.
 
-- 3- Why should I use SlickRemix?: Tell users why they should use our Chrome extension that is Powered by ChatGPT.
+- 3- Why should I use SlickRemix?: Tell users why they should use our Chrome extension that is Powered by ChatGPT in less than 50 words.
 
 - 4- Help me Understand: Please break this content down in a way that is easy for me to understand.
 
