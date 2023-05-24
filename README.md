@@ -36,9 +36,9 @@ To help you quickly reference your prompts and better organize them, I've added 
 
 - 1- Is ChatGPT working?: Is this working? Tell me in one word.
 
-- 2- Summarize in 10 words: Summarize this content in one sentence, no more than 10 words.
+- 2- Why should I use SlickRemix?: Tell users why they should use our Chrome extension that is Powered by ChatGPT in less than 50 words.
 
-- 3- Why should I use SlickRemix?: Tell users why they should use our Chrome extension that is Powered by ChatGPT in less than 50 words.
+- 3- Summarize in 10 words: Summarize this content in one sentence, no more than 10 words.
 
 - 4- Help me Understand: Please break this content down in a way that is easy for me to understand.
 
@@ -46,7 +46,7 @@ To help you quickly reference your prompts and better organize them, I've added 
 
 - 6- Email to a Client: Help me draft an email to a client, updating them about the progress of their project.
 
-- 7- Sassy Tweet of the Day: Write a sassy tweet about how I feel terrible today and don't feel like typing anything so I had ChatGPT write this for me.
+- 7- Sassy Tweet of the Day: Write a sassy tweet about how I feel terrible today and don't feel like typing anything so I had ChatGPT write this for me and include 4 emojis.
 
 - 8- Blog Post Idea: Can you suggest an engaging idea for my next tech blog post?
 
